@@ -19,7 +19,7 @@ A website that offers accessibility to users who have assistive technolgies.  It
 
 ## Deployed Website
 
-<https://kranniax.github.io/run-buddy/>
+<https://kranniax.github.io/marketing-agency/>
 
 ## Contributions
 
